@@ -1,0 +1,23 @@
+{
+  "name": "@mimesia/blue",
+  "version": "0.0.1",
+  "description": "The main brand color of Mimesia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimesia/blue.git"
+  },
+  "keywords": [
+    "color",
+    "scss"
+  ],
+  "author": "ACJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mimesia/blue/issues"
+  },
+  "homepage": "https://github.com/mimesia/blue#readme"
+}
